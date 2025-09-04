@@ -124,5 +124,5 @@ scp RobotAPI.py final.py pi@<raspberry_ip>:/home/pi/robot/
 
 ---
 
-👥 **Team:** Future Engineers
+👥 **Team:** MDU FusionX
 
